@@ -1,4 +1,5 @@
 
 public class myjava {
-int x; int y;
+int x; int y; 
+int z;
 }
